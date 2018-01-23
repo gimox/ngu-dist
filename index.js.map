@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,iBAAiB,EAAE,MAAM,2BAA2B,CAAC;AAC9D,OAAO,EAAE,WAAW,EAAE,gBAAgB,EAAE,MAAM,2CAA2C,CAAC","sourcesContent":["export { NguCarouselModule } from './src/ngu-carousel.module';\nexport { NguCarousel, NguCarouselStore } from './src/ngu-carousel/ngu-carousel.interface';"]}
